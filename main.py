@@ -82,7 +82,7 @@ The main function of the script
 
 		try:
 			# Sending the GET requests
-			response = urlopen('https://instagram.com/{}?__a=1'.format(username))
+			response = urlopen('https://instagram.com/{}?__a=1&__d=dis'.format(username))
 			response = loads(response.read())
 		except Exception as e:
 			# If there are any errors in the sending of the GET requests, then we print the error message on the console screen

@@ -20,4 +20,3 @@ Note that the command must be executed under the folder containing the _main.py_
 If there are any errors encountered during the execution of the scripts in this repository, then kindly raise an issue or you can email me at _rdofficial192@gmail.com_. You are also welcomed to solve the error yourself and contribute to this project. You can also help us improve. Keep supporting. You can find the owner here :
 
 * __Mail__ : rdofficial192@gmail.com
-* __Youtube__ : RDofficial
